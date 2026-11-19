@@ -1,0 +1,2 @@
+vp,vn,fp,fn,accuracy,precision,recall,specificity,f1score,coverage
+66,62,0,0,1.0,1.0,1.0,1.0,1.0,0.6701570680628273

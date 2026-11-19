@@ -1,0 +1,2 @@
+vp,vn,fp,fn,accuracy,precision,recall,specificity,f1score,coverage
+48,52,0,1,0.99009900990099,1.0,0.979591836734694,1.0,0.9896907216494846,0.452914798206278
